@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VisitRwanda</string>
+    <string name="Home">Home</string>
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="tourist">Tourist</string>
+    <string name="Admin">Admin</string>
+    <string name="Logout">Logout</string>
+    <string name="akagera">Akagera</string>
+    <string name="nyungwe">Nyungwe</string>
+    <string name="Historical">Historical</string>
+    <string name="Hotels">Hotels</string>
+    <string name="submit">BOOK NOW!!</string>
+    <string name="phone">"Enter Phone "</string>
+    <string name="email">Enter  Email</string>
+    <string name="number_of_visitors">Enter number of visitors</string>
+    <string name="name">Enter your Name</string>
+    <string name="know_history_of_rwanda">Navigate Akagera , know many things!!!</string>
+    <string name="welcome_to_akagera_national_park">Welcome to Akagera National Park</string>
+    <string name="Gisozi">Genocide Memorial</string>
+</resources>

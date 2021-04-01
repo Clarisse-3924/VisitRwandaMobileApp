@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23761904187",
+    "project_id": "visitrwanda-d59ed",
+    "storage_bucket": "visitrwanda-d59ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23761904187:android:f1dd5f38fd66851e0eb21e",
+        "android_client_info": {
+          "package_name": "com.example.visitrwanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23761904187-mh37u8jv7re2silpk0hilq8gas36dreh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visitrwanda",
+            "certificate_hash": "2a822ed239088b1b0e34372c3a06a97c5f187359"
+          }
+        },
+        {
+          "client_id": "23761904187-o33f3fi4j8f5mhb1lequlitj66mou29h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhv_DyT-1kiLLb-dp9UrRrZrjeau95xbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23761904187-o33f3fi4j8f5mhb1lequlitj66mou29h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
