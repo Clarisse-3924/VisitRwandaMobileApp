@@ -11,8 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".bookingNyanza"
-            android:label="People who booked for visiting Nyanza"></activity>
+            android:label="People who booked for visiting Nyanza"/>
         <activity android:name=".bookingHotel"
             android:label="People who booked for staying in Hotel"/>
         <activity android:name=".bookingNyungwe"
@@ -40,17 +41,21 @@
         <activity android:name=".Historical"
             android:label="Historical sites in Rwanda"/>
         <activity android:name=".Nyungwe"
-            android:label="Book for NYungwe National Park"/>
+            android:label="Book for Nyungwe National Park"/>
         <activity android:name=".akagera"
             android:label="Book for Akagera National Park"/>
-        <activity android:name=".MainActivity"
-            android:label="Sign Up">
+
+        <!-- MainActivity with explicit android:exported attribute -->
+        <activity
+            android:name=".MainActivity"
+            android:label="Sign Up"
+            android:exported="true">  <!-- Required for activities with intent filters -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

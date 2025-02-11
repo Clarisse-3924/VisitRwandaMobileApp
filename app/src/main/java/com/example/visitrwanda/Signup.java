@@ -45,7 +45,7 @@ public class Signup extends AppCompatActivity {
         agriculture.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Signup.this,Nyungwe.class));
+                startActivity(new Intent(Signup.this,bookingNyungwe.class));
             }
         });
 

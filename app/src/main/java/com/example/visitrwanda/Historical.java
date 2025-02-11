@@ -27,7 +27,7 @@ public class Historical extends AppCompatActivity {
         Ikibeho.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent (getApplicationContext(),Nyanza.class));
+                startActivity(new Intent (getApplicationContext(),bookingNyanza.class));
             }
         });
 
